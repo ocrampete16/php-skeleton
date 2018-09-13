@@ -1,0 +1,11 @@
+{
+    "name": "marcopetersen/php-skeleton",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Petersen",
+            "email": "m@rcopetersen.com"
+        }
+    ],
+    "require": {}
+}
