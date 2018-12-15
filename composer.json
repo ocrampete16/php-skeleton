@@ -1,5 +1,6 @@
 {
     "name": "marcopetersen/php-skeleton",
+    "description": "",
     "license": "MIT",
     "authors": [
         {
@@ -7,9 +8,6 @@
             "email": "m@rcopetersen.com"
         }
     ],
-    "config": {
-        "sort-packages": true
-    },
     "require": {
         "php": "^7.2"
     },
@@ -17,6 +15,9 @@
         "friendsofphp/php-cs-fixer": "^2.13",
         "localheinz/composer-normalize": "^1.0",
         "phpunit/phpunit": "^7.3"
+    },
+    "config": {
+        "sort-packages": true
     },
     "autoload": {
         "psr-4": {
